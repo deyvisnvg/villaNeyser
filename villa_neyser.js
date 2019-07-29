@@ -193,7 +193,6 @@ function mantenerPosicion() {
 			vy[i] = v_y * 70;
 			//document.write(v_x+", ");
 		}
-
 	}
 	if(cerdo.cargaOK){
 		for (var i = 0; i < cantidad_c; i++) {
